@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815647686792",
+    "firebase_url": "https://diplomkpi-11fc2.firebaseio.com",
+    "project_id": "diplomkpi-11fc2",
+    "storage_bucket": "diplomkpi-11fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815647686792:android:eeb410604049c744",
+        "android_client_info": {
+          "package_name": "com.example.user.keepsolid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815647686792-tdap89ef8r45pn6cul8h82l55c5puhh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.keepsolid",
+            "certificate_hash": "0b4c7009dc02409d96b7ab90b927148423bcd414"
+          }
+        },
+        {
+          "client_id": "815647686792-sln5cfomfb3drdciuii8rpc1mefh9oaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBla8u4cYgoVPBxAKNzAUbLPbw9lBy7M38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815647686792-sln5cfomfb3drdciuii8rpc1mefh9oaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
